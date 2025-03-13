@@ -1,0 +1,15 @@
+{
+    "name": "ashrafkamarudin/empty",
+    "autoload": {
+        "psr-4": {
+            "Ashrafkamarudin\\Empty\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ashraf Kamarudin",
+            "email": "ashrafk@runcloud.io"
+        }
+    ],
+    "require": {}
+}
